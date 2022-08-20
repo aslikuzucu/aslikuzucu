@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aslikuzucu (:
-- 👀 I’m interested in cyber security
+- 👀 I’m interested in cyber security, python programming and c programming..
 - 📫 How to reach me >>  aslihn.kuzucu@gmail.com
 
 <!---
